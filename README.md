@@ -1,4 +1,6 @@
 # AudioKitExamples
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyanyin1986%2FAudioKitExamples.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyanyin1986%2FAudioKitExamples?ref=badge_shield)
+
 
 ## English
 Thanks to [AudioKit](https://github.com/AudioKit/AudioKit).
@@ -18,3 +20,7 @@ Here are three simple examples:
 2. 作为一个录音使用
 3. 类似卡拉OK的场景，一边播放背景音乐，一边录音
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyanyin1986%2FAudioKitExamples.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyanyin1986%2FAudioKitExamples?ref=badge_large)
